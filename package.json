@@ -1,0 +1,13 @@
+{
+  "name": "Search-algorithm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "time": "node time.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
